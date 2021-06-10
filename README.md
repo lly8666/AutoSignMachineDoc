@@ -70,7 +70,7 @@ docker logs -f auto-sign-machine
 
 ## 任务环境变量文件.env
 
-文件.env 可创建并放在代码根目录，与 commands、webUI 等同级
+文件.env 可创建并放在代码根目录，与 src、example 等同级
 
 可使用的环境变量可查看`.env.default`内容
 
