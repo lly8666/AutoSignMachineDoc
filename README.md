@@ -2,19 +2,20 @@
 
 ## 目前可使用的脚本
 
-|    脚本名     |   说明   | 状态 |
-| :-----------: | :------: | ---- |
-|     iqiyi     |          |      |
-|   bilibili    |          |      |
-|    52pojie    |          |      |
-|   hecaiyun    |  和彩云  |      |
-|    unicom     |          |      |
-|    youthkd    | 中青看点 |      |
-| jiandantianqi | 简单天气 |      |
-|     shuqi     |   书旗   |      |
-|  cashtoutiao  |  惠头条  |      |
-|   jingdong    |   京东   |      |
-|   yuedongzu   |  悦动族  |      |
+|    脚本名     |       说明       | 状态 |
+| :-----------: | :--------------: | ---- |
+|     iqiyi     |                  |      |
+|   bilibili    |                  |      |
+|    52pojie    |                  |      |
+|   hecaiyun    |      和彩云      |      |
+|    unicom     |                  |      |
+|    youthkd    |     中青看点     |      |
+| jiandantianqi |     简单天气     |      |
+|     shuqi     |       书旗       |      |
+|  cashtoutiao  |      惠头条      |      |
+|   jingdong    |       京东       |      |
+|     tlsxw     | 特仑苏向往的生活 |      |
+|   yuedongzu   |      悦动族      |      |
 
 ## 配置格式参考
 
