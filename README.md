@@ -86,3 +86,11 @@ docker logs -f auto-sign-machine
   notify_tele_url=xxxxxxxxxxxxxx
   ban_jingdong_tasks=xxxxxx,xxxxxx,xxxxxx
 ```
+
+## 助力使用方式
+
+默认使用远程助力池随机助力，可使用参数`[type]_sharecodes`(例如`"pet_sharecodes":"code1,code2,..."`)来指定助力码
+
+也可启用参数`[type]_sharecode_local`(例如`"pet_sharecode_local":true`)来使用本地账号助力池
+
+其中`type`部分可使用的项目参考`lib/types.json`中的内容
